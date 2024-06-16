@@ -1,0 +1,1 @@
+Some text has been added to newly created file using branch feature2
